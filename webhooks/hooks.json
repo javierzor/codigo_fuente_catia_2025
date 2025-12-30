@@ -1,0 +1,11 @@
+
+[
+  {
+    "id": "l2j-deploy",
+    "execute-command": "/opt/l2j/deploy.sh",
+    "command-working-directory": "/opt/l2j",
+    "response-message": "Deploy triggered"
+  }
+]
+
+
